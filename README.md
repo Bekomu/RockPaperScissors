@@ -18,7 +18,7 @@ Burada # ile 6 farklı boyutta başlık oluşturabiliriz.
 
 ![hatasizkodolmaz](https://yazilimderyasi.files.wordpress.com/2019/03/hatasizkodolmaz8262046678117996890.jpeg?w=720)
 
-#### Farklı bilgiler
+#### kod penceresi açma
 
 ```cs
 
@@ -34,3 +34,13 @@ Burada # ile 6 farklı boyutta başlık oluşturabiliriz.
                         computerMove = "scissors";
                         break;
                 }
+                
+----
+
+## Liste
+- Liste 1
+ - Liste 1.1
+  - Liste 1.1.1
+- Liste 2
+ - Liste 2.1
+ - Liste 2.2
