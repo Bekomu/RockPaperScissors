@@ -34,7 +34,8 @@ Burada # ile 6 farklı boyutta başlık oluşturabiliriz.
                         computerMove = "scissors";
                         break;
                 }
-                
+```           
+           
 ----
 
 ## Liste
