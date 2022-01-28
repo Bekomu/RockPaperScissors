@@ -11,5 +11,6 @@ Burada # ile 6 farklı boyutta başlık oluşturabiliriz.
 
 
 ** NOT: ** üstteki linkler markdown için yönergeleri içermektedir.
+
 ----
 #### Gereksiz Bilgiler
