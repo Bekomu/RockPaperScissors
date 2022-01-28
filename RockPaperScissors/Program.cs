@@ -10,11 +10,7 @@ namespace RockPaperScissors
     {
         static void Main(string[] args)
         {
-            //Kullanıcıdan rock için r , paper için p , scissors için s tuşlamasını isteyiniz. r için => R yada rock olma durumunda da r kabul ediniz. exit için ise e yada E/exit tuşlasın.
-            //Kullanıcı çıkış tuşuna basmadığı sürece giriş yaptığı ve bilgisayarında rastgele bir seçim yaparak her tur için kim kazanırsa onun puanını artırınız.(playerScore, computerScore)
-            //Her tur sonunda kimin kazandığını yada beraber olma durumunu bilgilendiriniz ve aynı zamanda scorelarıda ekrana yazdırınız.
-            //Her tur bittikten sonra yeni tur başladığında ise console ekranını temizleyiniz.
-            //Kullanıcı çıkış tuşuna bastığında console'u kapatınız.
+            
             int playerScore = 0;
             int computerScore = 0;
             while (true)//sonsuz döngü
