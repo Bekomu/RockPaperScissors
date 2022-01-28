@@ -40,8 +40,7 @@ Burada # ile 6 farklı boyutta başlık oluşturabiliriz.
 
 ## Liste
 - Liste 1
- - Liste 1.1
-  - Liste 1.1.1
+  - Liste 1. Liste 1.1.1
 - Liste 2
  - Liste 2.1
  - Liste 2.2
